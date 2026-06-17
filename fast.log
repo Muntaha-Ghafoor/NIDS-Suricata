@@ -1,0 +1,59 @@
+06/12/2026-03:31:43.763684  [**] [1:1000001:1] ICMP Ping Detected [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.137.1:8 -> 192.168.137.128:0
+06/12/2026-03:31:43.763957  [**] [1:1000001:1] ICMP Ping Detected [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.137.128:0 -> 192.168.137.1:0
+06/12/2026-03:50:53.468903  [**] [1:1000001:1] ICMP Ping Detected [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.137.1:8 -> 192.168.137.128:0
+06/12/2026-03:50:53.469128  [**] [1:1000001:1] ICMP Ping Detected [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.137.128:0 -> 192.168.137.1:0
+06/12/2026-04:06:41.012422  [**] [1:1000001:1] ICMP Ping Detected [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.137.1:8 -> 192.168.137.128:0
+06/12/2026-04:06:41.012728  [**] [1:1000001:1] ICMP Ping Detected [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.137.128:0 -> 192.168.137.1:0
+06/12/2026-04:08:55.253006  [**] [1:1000006:1] FTP Connection Attempt [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:21
+06/12/2026-04:08:55.254931  [**] [1:1000005:1] Telnet Connection Attempt [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:23
+06/12/2026-04:08:55.255940  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:1720
+06/12/2026-04:08:55.258876  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:1141
+06/12/2026-04:08:55.260079  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:1044
+06/12/2026-04:08:55.261316  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:9080
+06/12/2026-04:08:55.264011  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:10009
+06/12/2026-04:08:55.266033  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:1069
+06/12/2026-04:08:55.269286  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:3580
+06/12/2026-04:08:55.262309  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:10616
+06/12/2026-04:08:55.264601  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:5030
+06/12/2026-04:08:55.267445  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:32780
+06/12/2026-04:08:55.270231  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:1213
+06/12/2026-04:08:55.273015  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:34571
+06/12/2026-04:08:55.271864  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:1165
+06/12/2026-04:08:55.275808  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:3372
+06/12/2026-04:08:55.278131  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:311
+06/12/2026-04:08:55.280208  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:3920
+06/12/2026-04:08:55.278136  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:2121
+06/12/2026-04:08:55.280455  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:1047
+06/12/2026-04:08:55.282722  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:7676
+06/12/2026-04:08:55.284505  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:5915
+06/12/2026-04:08:55.285508  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:3690
+06/12/2026-04:08:55.286962  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:1040
+06/12/2026-04:08:55.290277  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:9418
+06/12/2026-04:08:55.283074  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:28201
+06/12/2026-04:08:55.285042  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:10626
+06/12/2026-04:08:55.286963  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:843
+06/12/2026-04:08:55.289492  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:6779
+06/12/2026-04:08:55.291732  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:7100
+06/12/2026-04:08:55.294126  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:3914
+06/12/2026-04:08:55.296646  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:10003
+06/12/2026-04:08:55.298311  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:3128
+06/12/2026-04:08:55.300090  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:20828
+06/12/2026-04:08:55.291479  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:5431
+06/12/2026-04:08:55.293790  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:2022
+06/12/2026-04:08:55.295718  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:990
+06/12/2026-04:08:55.297514  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:88
+06/12/2026-04:08:55.298815  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:2001
+06/12/2026-04:08:55.300824  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:6667
+06/12/2026-04:08:55.302494  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:1062
+06/12/2026-04:08:55.302825  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:2251
+06/12/2026-04:08:55.305179  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:8031
+06/12/2026-04:08:55.309199  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:6106
+06/12/2026-04:08:55.302823  [**] [1:1000010:1] Possible Metasploit Connection [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:4444
+06/12/2026-04:08:55.303127  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:6101
+06/12/2026-04:08:55.305182  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:9968
+06/12/2026-04:08:55.309201  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:8651
+06/12/2026-04:08:55.311345  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:10628
+06/12/2026-04:08:55.313176  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:1034
+06/12/2026-04:08:55.315770  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:2222
+06/12/2026-04:08:55.312602  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:3404
+06/12/2026-04:08:55.316128  [**] [1:1000002:1] Nmap SYN Port Scan Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.137.1:33850 -> 192.168.137.128:19315
